@@ -7,6 +7,7 @@
 5. Press [Set ES language and Navigate to Faq] button
    
 Expected result: cookie value should be changed
+
 Actual result: cookie value is not changed, error that cookie blocked appears in Dev Tools -> Application -> Cookies
 
 ![image](https://github.com/heilwood/SolidStartCookieStorageBug/assets/27227165/fd74334d-3396-49db-a365-0fcde318104c)
